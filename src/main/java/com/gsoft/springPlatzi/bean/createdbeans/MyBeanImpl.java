@@ -1,6 +1,6 @@
-package com.gsoft.SpringPlatzi.bean;
+package com.gsoft.springPlatzi.bean;
 
-public class MyBeenImpl implements MyBean {
+public class MyBeanImpl implements MyBean {
 
   @Override
   public void print() {
